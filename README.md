@@ -1,6 +1,7 @@
 Code Packager CLI is small command-line,
 
 A tool that allows you to pack multiple code files into a single file
+
 It allows users to execute its functionality through the command line (CLI), 
 simplifying the process of packaging code for data organization and inspection purposes
 
